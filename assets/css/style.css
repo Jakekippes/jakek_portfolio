@@ -63,7 +63,7 @@
     margin: 10px;
     border: 0;
     border-radius: 0;
-    box-shadow: 0 0 30px -5px hsl(0deg, 0% 21% / 45%);
+    box-shadow: 0 0 30px -5px hsl(0deg 0% 21% / 45%);
 }
 
 .card-title {
@@ -79,4 +79,19 @@
 
 div {
     display: block;
+}
+
+.container-gray {
+    padding: 50px 30px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.row-project {
+    margin-top: 30px;
 }
