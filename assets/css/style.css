@@ -99,8 +99,8 @@ div {
 
 .btn {
     margin-top: 10px;
-    margin: auto;
-    display: grid;
+    margin: 33px;
+    width: 100px;
     justify-content: center;
     box-shadow: 0 0 30px -5px hsl(0deg 0% 21% / 45%);
 }
@@ -109,5 +109,11 @@ div {
     text-align: center;
     font-size: 1.3rem;
     font-weight: 300;
+    margin: 20px;
+}
+
+.link {
+    font-weight: bold;
+    font-size: 30px;
     margin: 20px;
 }
