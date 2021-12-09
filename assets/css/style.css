@@ -108,7 +108,7 @@ div {
 .project-title {
     text-align: center;
     font-size: 1.3rem;
-    font-weight: 300;
+    font-weight: 400;
     margin: 20px;
 }
 
@@ -116,4 +116,10 @@ div {
     font-weight: bold;
     font-size: 30px;
     margin: 20px;
+}
+
+.project-description {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 300;
 }
